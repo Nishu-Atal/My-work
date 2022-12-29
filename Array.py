@@ -1,0 +1,1 @@
+'There are %d %s birds'%(4,blue)
